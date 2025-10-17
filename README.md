@@ -1,5 +1,7 @@
 # NBA Travel and Fatigue Impact Analysis: Quantifying Schedule Density, Rest, and Performance Effects
 
+[▶️ View Interactive EDA Report](https://sibhisakthivel.github.io/nba-travel-fatigue-eda/)
+
 ## Overview
 
 Modern NBA teams face demanding travel schedules, short rest periods, and dense game clusters that can significantly affect performance and injury risk. This project investigates how travel, rest, and schedule compression influence team outcomes across the NBA, using real schedule and performance data spanning multiple seasons.
