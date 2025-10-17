@@ -1,6 +1,6 @@
 # NBA Travel and Fatigue Impact Analysis: Quantifying Schedule Density, Rest, and Performance Effects
 
-## **[▶View Interactive EDA Report](https://sibhisakthivel.github.io/nba-travel-fatigue-eda/)**
+## **[▶View EDA Report w/ Interactive Visualizations](https://sibhisakthivel.github.io/nba-travel-fatigue-eda/)**
 
 ## Overview
 
